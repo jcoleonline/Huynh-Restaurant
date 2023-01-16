@@ -1,0 +1,13 @@
+.navbar{
+    background-color: rgb(211, 248, 206);
+}
+
+p{
+    font-size: 24;
+    text-align: center;
+}
+
+#location{
+    width: 500px;
+    height: 400px;
+}
